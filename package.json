@@ -1,0 +1,20 @@
+{
+  "name": "print-function-import",
+  "version": "1.0.0",
+  "description": "print \"from __future__ import print_function\"",
+  "main": "index.js",
+  "bin": {
+    "print-function-import": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "python3",
+    "python",
+    "print_function"
+  ],
+  "author": "Kagami Sascha Rosylight <saschanaz@outlook.com>",
+  "license": "ISC",
+  "private": true  
+}
